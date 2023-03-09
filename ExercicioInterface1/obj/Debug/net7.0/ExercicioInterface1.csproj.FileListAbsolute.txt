@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\bin\Debug\net7.0\ExercicioInterface1.exe
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\bin\Debug\net7.0\ExercicioInterface1.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\bin\Debug\net7.0\ExercicioInterface1.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\bin\Debug\net7.0\ExercicioInterface1.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\bin\Debug\net7.0\ExercicioInterface1.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\refint\ExercicioInterface1.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ExercicioInterface1.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioInterface1\ExercicioInterface1\obj\Debug\net7.0\ref\ExercicioInterface1.dll
